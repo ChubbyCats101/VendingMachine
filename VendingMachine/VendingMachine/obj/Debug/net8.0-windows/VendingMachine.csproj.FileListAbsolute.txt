@@ -1,0 +1,17 @@
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net8.0-windows\VendingMachine.exe
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net8.0-windows\VendingMachine.deps.json
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net8.0-windows\VendingMachine.runtimeconfig.json
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net8.0-windows\VendingMachine.dll
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\bin\Debug\net8.0-windows\VendingMachine.pdb
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.Form1.resources
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.Properties.Resources.resources
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.csproj.GenerateResource.cache
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.AssemblyInfoInputs.cache
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.AssemblyInfo.cs
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.csproj.CoreCompileInputs.cache
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.dll
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\refint\VendingMachine.dll
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.pdb
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\VendingMachine.genruntimeconfig.cache
+D:\งานวิชาต่างๆ\GitCats\VendingMachine\VendingMachine\VendingMachine\VendingMachine\obj\Debug\net8.0-windows\ref\VendingMachine.dll
